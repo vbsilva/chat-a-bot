@@ -1,0 +1,25 @@
+{
+  "name": "chat-a-bot",
+  "version": "1.0.0",
+  "description": "ms chatbot hackthon 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbsilva/chat-a-bot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Vinicius Bezerra, Joao Amaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbsilva/chat-a-bot/issues"
+  },
+  "homepage": "https://github.com/vbsilva/chat-a-bot#readme",
+  "dependencies": {
+    "botbuilder": "^4.3.2"
+  }
+}
